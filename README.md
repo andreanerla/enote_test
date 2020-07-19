@@ -1,4 +1,4 @@
-To replicate the project follow these steps:
+To replicate the project follow these steps in order:
 -	Download the csv’s
 -	Run the Python script                        (remember to change the folder path accordingly to your setting)
 -	Execute the schema creation SQL file
