@@ -1,7 +1,7 @@
 To replicate the project follow these steps:
 -	Download the csv’s
 -	Run the Python script                        (remember to change the folder path accordingly to your setting)
--	Execute the three “create” SQL files
+-	Execute the schema creation SQL file
 -	Execute the three “bulk” SQL files    (remember to change the folder path accordingly to your setting)
 -	Execute the SQL query 
 
